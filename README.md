@@ -1,5 +1,4 @@
 # Simulated annealing for a construction of a random orthogonal array
-### *** work in progress ***
 
 Program in C for construction of random orthogonal arrays. It uses a simulated annealing technique and attempts to construct many arrays in parallel.
 
